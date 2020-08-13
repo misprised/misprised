@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [<img align="left" width="23rem" src="https://image.flaticon.com/icons/svg/1384/1384063.svg"/>](https://www.instagram.com/bresegovia_/)
 [<img align="left" width="23rem" src="https://image.flaticon.com/icons/svg/1384/1384065.svg"/>](https://twitter.com/brendsegovia)
-[<img align="left" width="23rem" src="https://image.flaticon.com/icons/svg/174/174857.svg"/>](https://www.linkedin.com/in/brenda-segóvia/)
+[<img align="left" width="23rem" src="https://image.flaticon.com/icons/svg/174/174857.svg"/>](https://www.linkedin.com/in/brenda-seg%C3%B3via-9b4484120//)
 
 
 ***
